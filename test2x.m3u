@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/EdgarTrz/ListaEGP/main/epg_ripper_MX1.xml"
+
+#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="Fox Sport Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",Fox Sport Premium
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
